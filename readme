@@ -1,1 +1,2 @@
-python main.pyでプログラムを実行
+python report.pyを実行し、pdfを出力する
+python main.pyでプログラムを実行する
