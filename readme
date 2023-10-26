@@ -1,2 +1,2 @@
 python report.pyを実行し、pdfを出力する
-python main.pyでプログラムを実行する
+python main.pyでプログラムを実行し、メールを送りる。
